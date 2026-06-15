@@ -1,12 +1,8 @@
-# Hi, I'm Troy Russo 👋
+# Hi, I'm Troy Russo 
 
-**Machine Learning Researcher | Data Science/Statistics & Mathematics | Ex-PNNL Intern**
+**Machine Learning Researcher | Data Science/Statistics & Mathematics**
 
 I am a double major in Statistics and Mathematics (intended) at the University of Washington (B.S., Class of 2027). My academic focus is heavily rooted in statistical theory and rigorous mathematics, including real analysis, modern algebra, and linear optimization. I am currently building the theoretical foundation necessary to pursue a PhD in Statistics and Machine Learning, with a specific research interest in algorithmic stability and advanced sampling methodologies.
-
-Whether I am optimizing neural networks on a national laboratory HPC cluster or developing proofs for novel active learning algorithms, I am focused on bridging the gap between rigorous mathematical theory and large-scale computational implementation.
-
-**🎯 Currently seeking Data Science & Machine Learning Internships for Summer/Fall 2026 to continue applying theoretical models to complex data systems.**
 
 ---
 
